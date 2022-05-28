@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h>//header file 
 #include<conio.h>
 #include<iomanip.h>//input-output manipulator
 #include<stdlib.h> 
